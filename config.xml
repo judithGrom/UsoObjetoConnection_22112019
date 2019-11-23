@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.network-information" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="io.cordova.network-information" version="0.2.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 <preference name="phonegap-version" value="cli-9.0.0" />
   <name>Uso del Objeto Connection</name>
   <description>
@@ -13,7 +13,7 @@
   <plugin name="cordova-plugin-dialogs"/> 
   <plugin name="cordova-plugin-device"/>
   <plugin name="cordova-plugin-media-capture"/>
-  <plugin name="cordova-plugin-network-information" version="0.2.7"/>
+  <plugin name="cordova-plugin-network-information" />
   <access origin="*" />
   <allow-intent href="http://*/*" />
   <allow-intent href="https://*/*" />
