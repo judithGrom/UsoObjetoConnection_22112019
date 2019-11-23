@@ -12,8 +12,8 @@
   <plugin name="cordova-plugin-whitelist" spec="1.3.4" />
   <plugin name="cordova-plugin-dialogs"/> 
   <plugin name="cordova-plugin-device"/>
-  <plugin name="cordova-plugin-network-information"/>
   <plugin name="cordova-plugin-media-capture"/>
+  <plugin name="cordova-plugin-network-information" version="0.2.7"/>
   <access origin="*" />
   <allow-intent href="http://*/*" />
   <allow-intent href="https://*/*" />
